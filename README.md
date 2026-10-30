@@ -1,4 +1,11 @@
-# LAN peer-to-peer file sharing
+<h1 align="center">LAN peer-to-peer file sharing</h1>
+
+<p align="center">
+  <img alt="language: Java" src="https://img.shields.io/badge/language-Java-orange">
+  <img alt="UI: Swing" src="https://img.shields.io/badge/UI-Swing-blue">
+  <img alt="transport: UDP" src="https://img.shields.io/badge/transport-UDP-lightgrey">
+  <img alt="license: MIT" src="https://img.shields.io/badge/license-MIT-green">
+</p>
 
 A Java Swing networking project for discovering peers and sharing files on a local network. Peers advertise file metadata, and downloads request chunks that are split into UDP fragments.
 
